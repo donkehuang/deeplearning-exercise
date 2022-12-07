@@ -1,0 +1,5 @@
+/神经网络实战分类与回归任务
+/WeatherPrediction/data
+/NumberClassification/data
+WeatherPrediction/temps.csv
+WeatherPrediction/__pycache__/data_preprocess.cpython-39.pyc
